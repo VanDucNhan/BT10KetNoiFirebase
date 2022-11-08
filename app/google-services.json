@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353843627036",
+    "project_id": "bt10firebase",
+    "storage_bucket": "bt10firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353843627036:android:51f6f89c15f916d32bcbd9",
+        "android_client_info": {
+          "package_name": "com.google.appketnoivoi_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353843627036-2776vhrh6n7bkogkjmjvbmlgj2s05s3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qEq288ye38y2ebhBUPjS1nSrnlhoq7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353843627036-2776vhrh6n7bkogkjmjvbmlgj2s05s3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
